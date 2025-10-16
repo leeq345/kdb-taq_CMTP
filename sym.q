@@ -1,3 +1,6 @@
+//ADDED COMMENT TO Q FILE
+
+
 // schema.q
 // Quote Table Schema
 quote:([]time:`timestamp$();sym:`symbol$();bid:`float$();ask:`float$();bsize:`long$();asize:`long$());
