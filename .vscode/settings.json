@@ -1,4 +1,7 @@
 {
     "kdb.connectionMap": {},
     "kdb.targetMap": {}
+    "files.exclude": {
+        "**/.git": false
+    }
 }
